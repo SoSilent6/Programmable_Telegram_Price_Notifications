@@ -11,9 +11,5 @@ primary_region = "sin"  # Singapore region, you can change this to a region clos
 [processes]
   app = "python app.py"
 
-[http_service]
-  internal_port = 8080
-  force_https = true
-  auto_stop_machines = false
-  auto_start_machines = true
-  min_machines_running = 1
+# Remove the http_service section since this app doesn't expose an HTTP port
+# This is a background worker application, not a web service
