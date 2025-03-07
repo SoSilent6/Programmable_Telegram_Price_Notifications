@@ -1,0 +1,302 @@
+{
+  "1": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 91996.40939768268
+    },
+    "name": "Bitcoin",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 87894.86533906501
+    },
+    "symbol": "BTC"
+  },
+  "1027": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 2295.3403823681615
+    },
+    "name": "Ethereum",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 2165.742675463192
+    },
+    "symbol": "ETH"
+  },
+  "11092": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 4.66700908927391
+    },
+    "name": "Bitget Token",
+    "short_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 4.66700908927391
+    },
+    "symbol": "BGB"
+  },
+  "11419": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 3.061105478061759
+    },
+    "name": "Toncoin",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 2.997138845402384
+    },
+    "symbol": "TON"
+  },
+  "11841": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:02:58.992870",
+      "last_price": 0.42420675904742144
+    },
+    "name": "Arbitrum",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.40072963335850587
+    },
+    "symbol": "ARB"
+  },
+  "1975": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 17.329251380945877
+    },
+    "name": "Chainlink",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:29:37.341099",
+      "last_price": 16.687600736069765
+    },
+    "symbol": "LINK"
+  },
+  "2010": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 0.9407467745925526
+    },
+    "name": "Cardano",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.8731288503678795
+    },
+    "symbol": "ADA"
+  },
+  "20947": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T23:43:01.632831",
+      "last_price": 2.937814235499638
+    },
+    "name": "Sui",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:51:18.419466",
+      "last_price": 2.8180084684673297
+    },
+    "symbol": "SUI"
+  },
+  "21159": {
+    "long_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 1.0280940883298324
+    },
+    "name": "Ondo",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 1.0280940883298324
+    },
+    "symbol": "ONDO"
+  },
+  "21794": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 6.207626053783926
+    },
+    "name": "Aptos",
+    "short_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 6.207626053783926
+    },
+    "symbol": "APT"
+  },
+  "22974": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:01:58.295392",
+      "last_price": 304.9904416963837
+    },
+    "name": "Bittensor",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 280.30651437113426
+    },
+    "symbol": "TAO"
+  },
+  "28321": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:01:58.295392",
+      "last_price": 0.25920862693815017
+    },
+    "name": "POL (prev. MATIC)",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.24350744669074048
+    },
+    "symbol": "POL"
+  },
+  "29210": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:02:58.992870",
+      "last_price": 0.6271496906238815
+    },
+    "name": "Jupiter",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.6026232459784203
+    },
+    "symbol": "JUP"
+  },
+  "32196": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 16.892944078576853
+    },
+    "name": "Hyperliquid",
+    "short_term": {
+      "last_notification_time": "2025-03-06T23:53:55.526180",
+      "last_price": 16.105444205669926
+    },
+    "symbol": "HYPE"
+  },
+  "35336": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:01:58.295392",
+      "last_price": 13.632739138687251
+    },
+    "name": "OFFICIAL TRUMP",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 12.73674717805019
+    },
+    "symbol": "TRUMP"
+  },
+  "3773": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:02:58.992870",
+      "last_price": 0.6373480886380025
+    },
+    "name": "Artificial Superintelligence Alliance",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.6066261275697566
+    },
+    "symbol": "FET"
+  },
+  "4642": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:00:57.598233",
+      "last_price": 0.24779215177580935
+    },
+    "name": "Hedera",
+    "short_term": {
+      "last_notification_time": "2025-03-07T14:00:23.486499",
+      "last_price": 0.24526911330028658
+    },
+    "symbol": "HBAR"
+  },
+  "4847": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:02:58.992870",
+      "last_price": 0.7533358962182071
+    },
+    "name": "Stacks",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.7096840252264969
+    },
+    "symbol": "STX"
+  },
+  "512": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 0.30053222022978104
+    },
+    "name": "Stellar",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.29017588570774544
+    },
+    "symbol": "XLM"
+  },
+  "52": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 2.5071931627799016
+    },
+    "name": "XRP",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 2.4986465884490188
+    },
+    "symbol": "XRP"
+  },
+  "5426": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 149.35236160731816
+    },
+    "name": "Solana",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:29:37.341099",
+      "last_price": 143.04721101304577
+    },
+    "symbol": "SOL"
+  },
+  "6536": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 7.028909651521617
+    },
+    "name": "MANTRA",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 6.70215884893273
+    },
+    "symbol": "OM"
+  },
+  "7226": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T15:02:58.992870",
+      "last_price": 12.364943169158538
+    },
+    "name": "Injective",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 11.708733601809225
+    },
+    "symbol": "INJ"
+  },
+  "7278": {
+    "long_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 207.7711914724098
+    },
+    "name": "Aave",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 207.7711914724098
+    },
+    "symbol": "AAVE"
+  },
+  "74": {
+    "long_term": {
+      "last_notification_time": "2025-03-06T14:58:55.860544",
+      "last_price": 0.21422444548665878
+    },
+    "name": "Dogecoin",
+    "short_term": {
+      "last_notification_time": "2025-03-07T13:20:31.271175",
+      "last_price": 0.19826654615873363
+    },
+    "symbol": "DOGE"
+  }
+}

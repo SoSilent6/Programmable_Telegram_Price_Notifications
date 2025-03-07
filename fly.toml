@@ -1,0 +1,19 @@
+app = "crypto-price-monitor"
+primary_region = "sin"  # Singapore region, you can change this to a region closer to you
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  # These will be overridden by secrets set with 'fly secrets set'
+  # Do not put actual secrets here
+
+[processes]
+  app = "python app.py"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = false
+  auto_start_machines = true
+  min_machines_running = 1
